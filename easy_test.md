@@ -10,7 +10,7 @@ Including the required library files and initializing empty variables
 > library(ggplot2)
 > library(microbenchmark)
 > #Prostate dataset
-> data("Prostate")
+> data("Prostate", package = "lasso2")
 > #Benchmark times for glmnet and irgnet respectively
 > glm_time <- vector()
 > irg_time <- vector()
@@ -112,7 +112,7 @@ library(iregnet)
 library(ggplot2)
 library(microbenchmark)
 #Prostate dataset
-data("Prostate")
+data("Prostate", package = "lasso2")
 #Benchmark times for glmnet and irgnet respectively
 glm_time <- vector()
 irg_time <- vector()
