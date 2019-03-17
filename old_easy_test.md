@@ -1,5 +1,6 @@
 # Easy Test for the Iregnet Proposal
-****This is the old erroneous test which I attempted without much knowledge of regression and benchmarking. I attempted this test again after a lot of research which is in the same repo with the name "easy_test.md". Now it's only a memoir of the progress that I underwent while attempting the tests**
+****This is an old erroneous test which I attempted without much knowledge of L1, L2 regression and benchmarking. I attempted this test again after a lot of research and my new test is in the same repo with the name [easy_test.md](https://github.com/theadityasam/iregtest/blob/master/easy_test.md).   
+Now it's only a memoir of the progress that I underwent throughout the week while attempting the tests**
 ## Console Output (Raw Code at the end of the Readme)
 Including the required library files and initializing empty variables
 ```
